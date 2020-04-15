@@ -1,6 +1,11 @@
 import React from 'react';
-import {View} from 'react-native';
+import {View, Text} from 'react-native';
 
 export default ({title, description}) => {
-  return <View />;
+  return (
+    <View>
+      <Text>{title}</Text>
+      <Text>{description}</Text>
+    </View>
+  );
 };
