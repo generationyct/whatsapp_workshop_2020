@@ -32,6 +32,6 @@ const styles = StyleSheet.create({
   ...ApplicationStyles,
   separator: {
     borderBottomWidth: 1,
-    borderBottomColor: 'rgba(0,0,0, .1)',
+    borderBottomColor: 'rgba(255,255,255, .1)',
   },
 });

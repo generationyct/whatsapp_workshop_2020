@@ -27,7 +27,7 @@ const App: () => React$Node = () => {
         <Stack.Navigator
           screenOptions={{
             headerStyle: {
-              backgroundColor: '#006655',
+              backgroundColor: '#000000',
             },
             headerTintColor: '#fff',
             headerTitleStyle: {

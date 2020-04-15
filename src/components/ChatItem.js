@@ -41,9 +41,9 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   label: {
-    color: 'rgba(0,0,0,.5)',
+    color: 'rgba(255,255,255,.5)',
   },
   arrow: {
-    color: 'rgba(0,0,0,.5)',
+    color: 'rgba(255,255,255,.5)',
   },
 });
