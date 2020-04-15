@@ -169,11 +169,13 @@ const messages = [{
 
 </details>
 
-After this exercise you will have component structure that we can use for future examples. If by the end of the exercise you have not completed everything, you can check out `step1` branch for solution.
+After this exercise you will have component structure that we can use for future examples. If by the end of the exercise you have not completed everything, you can check out `step1` branch for solution. 
+
+Don't forget to run `npm install` and `npx pod-install ios`. Also make sure to sop packager and start app again.
 
 <details>
 <summary>
-Excercise 2 - Layout and Flexbox
+Exercise 2 - Layout and Flexbox
 </summary>
 
 Style screens to look like this:
