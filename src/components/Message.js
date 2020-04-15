@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     alignSelf: 'flex-end',
     backgroundColor: '#E16FF5',
-    borderRadius: 8,
+    borderRadius: 14,
   },
   incomingMessage: {
     alignSelf: 'flex-start',
